@@ -9,6 +9,6 @@
 
 const urls = [
 	"https://docs.google.com/forms/d/e/1FAIpQLSc4H08FnpB25erqAyEV5I70v1ER7Z3VGUzlJLStxpjHXO_uXg/viewform?usp=header",
-	"https://www.surveycake.com/s/VG00n",
-	"https://www.surveycake.com/s/eGQ4q"
+	"https://docs.google.com/forms/d/e/1FAIpQLSeX3beogSO-fhCuNoVjB-EtL-lUKB_tg9TegFdxMEa6cjeGbg/viewform?usp=dialog",
+	"https://docs.google.com/forms/d/e/1FAIpQLSeWVmrqe0OXXuN69OkRZdVaJxKsX5ogHdLWTSGfRR5pYGvyYQ/viewform?usp=header"
 ];
